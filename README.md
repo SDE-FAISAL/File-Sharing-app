@@ -1,4 +1,5 @@
-# File-Sharing-app
+# File-Sharing-app - MERN technology
+
 "Creating a file sharing app for seamless document exchange, enhancing collaboration and productivity. Secure, user-friendly, and efficient."
 
 
